@@ -1,0 +1,59 @@
+
+body{
+    font-family: Poppins-Regular ;
+    color: #8b5e93;
+
+}
+.header-mon-compte{
+    background: white;
+    width: 100%;
+    text-transform: uppercase;
+    text-align: center; 
+    padding: 20px 5px; 
+    margin: auto; 
+    display: block;
+    border-bottom: 1px Black solid; 
+    border-top: 1px Black solid;
+}
+
+.boxs-login{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px; 
+
+}
+
+.boxlog{
+    flex: 1; 
+    max-width: 600px; 
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin: 0px 20Px; 
+    line-height: 2em;
+    border: 1px lightgray solid; 
+    border-radius: 10px; 
+    padding: 20px; 
+    
+}
+.newsletter{
+    margin-top: 50px; 
+    width: 100%;
+    display:flex; 
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+
+}
+.reseaux{
+    display: flex;
+    margin: 40px 0; 
+    justify-content: center; 
+    font-size: 2.3em;
+}
+.reseaux i{
+    padding: 20px; 
+    transition: all 0.5s;
+}
+

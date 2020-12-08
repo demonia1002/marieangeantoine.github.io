@@ -1,0 +1,25 @@
+body{
+    margin: Opx; 
+    padding: Opx; 
+    background-color:rgb(245, 245, 245);
+}
+
+form{
+    font-weight: bold;
+    text-align: center; 
+    margin: 30px;
+    line-height: 2em;
+}
+p{ 
+    font-style: italic;
+    font-size: small;
+}
+button{
+    border-radius: 50px;
+    background-color: rgb(217, 226, 230);
+    text-align: center;
+}
+#inscription{
+    text-align: center;
+    font-size: large; 
+}

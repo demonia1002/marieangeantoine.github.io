@@ -1,0 +1,23 @@
+html{
+	background-color:white ;
+	margin:0; 
+	padding:0;
+	font-family: Indie Flower, cursive; 
+}
+#imum{
+	width: 30px;
+	height: 15px; 
+}
+button:hover{ 
+background-color: #B8E9FF; 
+}
+/****************header***************************************/ 
+header{
+	background-color:#FFF7DF; 
+	
+}
+
+/************************findepage****************************/
+footer{
+	background-color:#FFF7DF; 
+}

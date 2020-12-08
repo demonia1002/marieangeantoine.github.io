@@ -1,0 +1,73 @@
+
+/**************Bol************************/
+.container{
+    width: 100%;
+}
+.container-full, container{
+    float: left; 
+    width: 50%;
+
+}
+.galery{
+    width: 100%;
+}
+.galery-photos{
+    float: left;
+    width: 50%;
+
+}
+.galery-photos-header{
+    text-align: center;
+     margin: auto; 
+}
+.previews{}
+
+.previews img{
+    width: 33%; 
+    float: left;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.galery-description{
+  float: left;
+  width: 50%; 
+  text-align:center; 
+
+}
+iframe{
+    width: 250px;
+    height: 150px;
+
+}
+.produit{
+    float: left;
+    width: 33%;
+   
+    
+    
+}
+produits{
+    text-align:center; 
+    max-height: 75px;
+}
+.container-full{
+    display: inline-block;
+    width: 100%;
+
+}
+.section-title{
+    margin: 20px; 
+    text-align: center; 
+    font-size:bold; 
+}
+.produit{
+    width: 33%;
+    float: left;  
+    padding: 10px;
+    box-sizing:border-box; 
+
+}
+button:hover{
+    background-color: #9d9765;
+    border-radius: 5px; 
+}
