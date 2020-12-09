@@ -1,6 +1,3 @@
-#groupe 1 la tu notes que les robots ne passe pas 
-User-agent: Googlebot
-disallow: /nogooglebot/
 
 #Groupe 2 la tu notes que tous les robots peuvent passer. 
  
